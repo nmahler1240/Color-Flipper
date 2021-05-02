@@ -1,0 +1,70 @@
+.btn {
+  transition-duration: 0.4s;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.btn:hover {
+  background-color: inherit;
+  color: white;
+}
+
+h4 {
+  text-align: center;
+  font-size: 50px;
+  font-family: sans-serif;
+
+}
+
+.container {
+  text-align: center;
+  background-color: darkgrey;
+  height: 50%;
+  width: 25%;
+  padding: 10px;
+  margin: auto;
+  border-radius: 25%;
+  border-bottom: solid black 6px;
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: sans-serif;
+  display: inline-block;
+  width: 100%;
+
+}
+
+li {
+  display: inline-block;
+  text-align: center;
+
+}
+
+li a {
+
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: grey;
+}
+
+.active {
+  background-color: grey;
+}
+
+.nav-center {
+}
+
+h2 {
+  font-size: 35px;
+  font-family: sans-serif;
+}
